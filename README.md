@@ -12,8 +12,7 @@ This program was developed in 2007 and is not actively maintained.
 ## Project Website
 
 - http://aimfeld.ch/cellmorphs/cellmorphs.html
-
-Check out the [gallery](http://aimfeld.ch/cellmorphs/cellmorphs.html#Gallery) for animated examples.
+- Check out the [gallery](http://aimfeld.ch/cellmorphs/cellmorphs.html#Gallery) for animated examples.
 
 ![Belt](http://aimfeld.ch/cellmorphs/gallery/belt.gif)
 
