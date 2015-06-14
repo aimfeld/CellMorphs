@@ -2,8 +2,6 @@
 
 CellMorphs is a program for evolving cellular automata by aesthetic selection.
 
-![Cellmorphs logo](http://aimfeld.ch/cellmorphs/img/monkey.gif)
-
 This program was developed in 2007 and is not actively maintained. 
 
 ## Requirements
@@ -14,5 +12,11 @@ This program was developed in 2007 and is not actively maintained.
 ## Project Website
 
 - http://aimfeld.ch/cellmorphs/cellmorphs.html
+
+Check out the [gallery](http://aimfeld.ch/cellmorphs/cellmorphs.html#Gallery) for animated examples.
+
+![Belt](http://aimfeld.ch/cellmorphs/gallery/belt.gif)
+
+## User Interface
 
 ![Cellmorphs user interface](http://aimfeld.ch/cellmorphs/img/gui.gif)
