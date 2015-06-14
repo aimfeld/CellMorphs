@@ -1,6 +1,6 @@
 # CellMorphs
 
-CellMorphs is a program for evolving cellular automata by aesthetic selection.
+CellMorphs is a program for evolving cellular automata by aesthetic selection. CellMorphs is based on [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life) and the idea of evolution by aesthetic selection is derived from [Richard Dawkins' Biomorphs](https://en.wikipedia.org/wiki/The_Blind_Watchmaker). 
 
 This program was developed in 2007 and is not actively maintained. 
 
