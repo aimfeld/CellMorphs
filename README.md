@@ -11,11 +11,11 @@ This program was developed in 2007 and is not actively maintained.
 
 ## Project Website
 
-- http://aimfeld.ch/cellmorphs/cellmorphs.html
-- Check out the [gallery](http://aimfeld.ch/cellmorphs/cellmorphs.html#Gallery) for animated examples.
+- https://aimfeld.github.io/CellMorphs/
+- Check out the [gallery](https://aimfeld.github.io/CellMorphs/#Gallery) for animated examples.
 
-![Belt](http://aimfeld.ch/cellmorphs/gallery/belt.gif)
+![Belt](https://aimfeld.github.io/CellMorphs/gallery/belt.gif)
 
 ## User Interface
 
-![Cellmorphs user interface](http://aimfeld.ch/cellmorphs/img/gui.gif)
+![Cellmorphs user interface](https://aimfeld.github.io/CellMorphs/img/gui.gif)
