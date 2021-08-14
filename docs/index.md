@@ -5,6 +5,15 @@
 layout: default
 ---
 
+
+# CellMorhps NFT Collection
+
+CellMorphs are available as an OpenSea NFT collection! More are coming soon, but the total supply will be limited to 100.
+
+<a href="https://opensea.io/collection/cellmorphs" target="_blank"><img style="width:220px; border-radius:5px; box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.25);" src="https://storage.googleapis.com/opensea-static/Logomark/Badge%20-%20Available%20On%20-%20Light.png" alt="Available on OpenSea" /></a>
+
+If you create an interesting CellMorph, [contact me](mailto:aimfeld@aimfeld.ch) and I may add it to the NFT collection. Let's see if you discover a cooler CellMorph than my [praying monkey](#praying-monkey) :).
+
 # Installation
 
 1. Download [CellMorphs](cellmorphs_v1_1.zip).
@@ -495,6 +504,7 @@ The rules and properties of the cellular automata (CA) are stored in a genome wi
     </tr>
 </table>
 <p>&nbsp;</p>
+<a id="praying-monkey"></a>
 <table class="gallery-table">
     <tr>
         <th>Praying Monkey</th>
