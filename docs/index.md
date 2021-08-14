@@ -6,7 +6,7 @@ layout: default
 ---
 
 
-# CellMorhps NFT Collection
+# CellMorphs NFT Collection
 
 CellMorphs are available as an OpenSea NFT collection! More are coming soon, but the total supply will be limited to 100.
 
