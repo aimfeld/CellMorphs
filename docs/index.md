@@ -29,7 +29,7 @@ The CA of CellMorphs are based on [Conway's Game of Life](http://en.wikipedia.or
 
 ![GUI](img/gui.gif)
 
-On the left side you see the parent cellmorph and five mutations (children) of it. Select one of them by clicking on it to display its genetic information on the right side in the info panel. The red border indicates your selection. Click on the selected cellmorph again to make it the parent of five new children. In the bottom right you see the control panel. Just experiment with the sliders and buttons to find out what you can do. The [cellular automata](https://aimfeld.github.io/CellMorphs/#CellAut) section below will help you understand the genetic information and the different rendering modes.
+On the left side you see the parent cellmorph and five mutations (children) of it. Select one of them by clicking on it to display its genetic information on the right side in the info panel. The red border indicates your selection. Click on the selected cellmorph again to make it the parent of five new children. In the bottom right you see the control panel. Just experiment with the sliders and buttons to find out what you can do. The [cellular automata](#cellular-automata) section below will help you understand the genetic information and the different rendering modes.
 
 The results of experimenting with CellMorphs will be surprising and possibilities are virtually endless! If you evolve something interesting, please save the cellmorph to a .cm file and [e-mail](mailto:aimfeld@aimfeld.ch) it to me. Here are some examples I've evolved (also check out some animated examples in the [gallery](#gallery)):
 
