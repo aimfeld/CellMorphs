@@ -23,9 +23,9 @@ Instead of double-clicking on CellMorphs.jar, you may have to right click -> ope
 
 # Introduction
 
-CellMorphs is a program for evolving [cellular automata](http://en.wikipedia.org/wiki/Cellular_automata) (CA). CA are complex dynamical systems that exhibit overall behavior that cannot be traced back to the underlying rules, that is, [emergent](http://en.wikipedia.org/wiki/Emergence) or self-organized behavior. Complex systems typically consist of many similar, interacting, simple parts. 'Simple' means that the behavior of parts is easily understood, while the overall behavior of the system as a whole has no simple explanation.
+CellMorphs is a program for evolving [cellular automata](http://en.wikipedia.org/wiki/Cellular_automata). Cellular automata are complex dynamical systems that exhibit overall behavior that cannot be traced back to the underlying rules, that is, [emergent](http://en.wikipedia.org/wiki/Emergence) or self-organized behavior. Complex systems typically consist of many similar, interacting, simple parts. 'Simple' means that the behavior of parts is easily understood, while the overall behavior of the system as a whole has no simple explanation.
 
-The CA of CellMorphs are based on [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life) and the idea of evolution by aesthetic selection is derived from [Richard Dawkins' Biomorphs](https://en.wikipedia.org/wiki/The_Blind_Watchmaker). It starts with a classic game of life CA and five slightly mutated versions of it, all of which you see moving on the screen. Since you're smarter than the computer, you do the hard job of selection, while the computer generates new mutations. Here's how the program looks like:
+The cellular automata of CellMorphs are based on [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life) and the idea of evolution by aesthetic selection is derived from [Richard Dawkins' Biomorphs](https://en.wikipedia.org/wiki/The_Blind_Watchmaker). It starts with a classic game of life cellular automaton and five slightly mutated versions of it, all of which you see moving on the screen. Since you're smarter than the computer, you do the hard job of selection, while the computer generates new mutations. Here's how the program looks like:
 
 ![GUI](img/gui.gif)
 
@@ -125,11 +125,11 @@ At the beginning, neither the shape nor the colors resemble a monkey. At step 2,
 
 # Cellular Automata
 
-In general, cellular automata (CA) are mathematical models in which space and time are discrete: time proceeds in steps and space is represented as a lattice or array of cells. The cells have a set of properties (variables) that may change over time. The values of the variables of a specific cell at a given time are called the state of the cell.
+In general, cellular automata are mathematical models in which space and time are discrete: time proceeds in steps and space is represented as a lattice or array of cells. The cells have a set of properties (variables) that may change over time. The values of the variables of a specific cell at a given time are called the state of the cell.
 
-Each cell has a set of local rules. Given the state of the cell and the states of the cells in its neighborhood these rules determine the state of the cell at the next time step. It is important to note that the states of all cells are updated simultaneously (synchronously) based on the (actual or current) values of the variables in their neighborhood according to the local rules. If all cells have the same set of rules the CA is called homogeneous.
+Each cell has a set of local rules. Given the state of the cell and the states of the cells in its neighborhood these rules determine the state of the cell at the next time step. It is important to note that the states of all cells are updated simultaneously (synchronously) based on the (actual or current) values of the variables in their neighborhood according to the local rules. If all cells have the same set of rules the cellular automaton is called homogeneous.
 
-CA have been employed to study pattern formation in nature, e.g. evolution of spiral galaxies or sea shell pattern formation.
+Cellular automata have been employed to study pattern formation in nature, e.g. evolution of spiral galaxies or sea shell pattern formation.
 
 <table>
     <tr>
@@ -143,7 +143,7 @@ CA have been employed to study pattern formation in nature, e.g. evolution of sp
 </table>
 _Meinhardt, H. (1995). The Algorithmic Beauty of Sea Shells. Springer Verlag. (p. 179, 180)_
 
-The CA in CellMorphs have the following properties:
+The cellular automata in CellMorphs have the following properties:
 
 * 2-dimensional: The cellgrid is a rectangular field.
 * binary: Every cell in the cellgrid is either alive or dead, so that's just one variable with two states per cell.
@@ -152,14 +152,14 @@ The CA in CellMorphs have the following properties:
 * decentralized: Every cell considers only its close neighbors (local rules) for updating its state in the next time step.
 * contained in periodic boundaries: Cells on the left side of the cellgrid are neighbors of cells on the right side.
 
-In order to better observe the dynamics of a CA, repeat the ontogenetic process using the reinitialize button and try different rendering modes:
+In order to better observe the dynamics of a cellular automaton, repeat the ontogenetic process using the reinitialize button and try different rendering modes:
 
 * Cell State: Living cells are displayed as white dots.
 * Neighbor Count: Every cells number of living neighbors in the neighborhood is displayed in gray scale. Black means that all cells in the neighborhood are dead, white means that all neighbor cells in the neighborhood are living.
 * Image: The neighbor count value is graphically interpreted using the genes coding for the color channels (see below).
-* Neighborhood Shape: The shape of the neighborhood of one cell is displayed. Like the initial configuration of cells (init field), shape and size of the neighborhood are evolvable and crucially influence the CA's behavior. Note that the neighbor count value is relative to the neighborhood size.
+* Neighborhood Shape: The shape of the neighborhood of one cell is displayed. Like the initial configuration of cells (init field), shape and size of the neighborhood are evolvable and crucially influence the cellular automaton's behavior. Note that the neighbor count value is relative to the neighborhood size.
 
-As already stated, the cellular automata (CA) in CellMorphs are based on Conway's Game of Life which is defined by the following rules:
+As already stated, the cellular automata in CellMorphs are based on Conway's Game of Life which is defined by the following rules:
 
 * Isolation: If a living cell has less than two neighbors, it dies.
 * Overcrowding: If a living cell has more that three neighbors, it dies.
@@ -233,7 +233,7 @@ If you like, check out my 2D and 3D game of life simulators in the gol_2d and go
 
 # Genome
 
-The rules and properties of the cellular automata (CA) are stored in a genome with 20 genes. This amounts to roughly `4.6*10^124` possible genetic combinations to define CAs which can be displayed in roughly `2*10^10` different ways. That's just enough to keep you busy for a while I guess. Note that the vast majority of these CAs will be very boring. This is where the evolutionary approach of CellMorphs kicks in and helps you find your way towards the interesting combinations. Again, this bears analogy to the way nature works: Evolution by cumulative selection is an effective way to search the endless design space of genetically possible combinations (most of which are nonviable, or boring, so to speak). Here's the gene table:
+The rules and properties of the cellular automata are stored in a genome with 20 genes. This amounts to roughly `4.6*10^124` possible genetic combinations to define cellular automata which can be displayed in roughly `2*10^10` different ways. That's just enough to keep you busy for a while I guess. Note that the vast majority of these cellular automata will be very boring. This is where the evolutionary approach of CellMorphs kicks in and helps you find your way towards the interesting combinations. Again, this bears analogy to the way nature works: Evolution by cumulative selection is an effective way to search the endless design space of genetically possible combinations (most of which are nonviable, or boring, so to speak). Here's the gene table:
 
 <table class="gene-table">
     <tr>
@@ -249,7 +249,7 @@ The rules and properties of the cellular automata (CA) are stored in a genome wi
     <tr>
         <td>1</td>
         <td>Init field mode</td>
-        <td>0: CA starts with init field<br /> 1: CA start is random</td>
+        <td>0: Starts with init field<br /> 1: Start is random</td>
         <td>0</td>
         <td>-</td>
         <td>-</td>
@@ -259,7 +259,7 @@ The rules and properties of the cellular automata (CA) are stored in a genome wi
     <tr>
         <td>2</td>
         <td>Init field</td>
-        <td>Contains the init field of the CA</td>
+        <td>Contains the init field</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
