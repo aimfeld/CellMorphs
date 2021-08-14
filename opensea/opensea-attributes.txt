@@ -1,0 +1,22 @@
+Cellmorph Attributes
+
+Properties
+----------
+Type: Methuselah (Monkey), Cyclic (Glider), Chaotic (Water), Expanding (Belt), Exploding (?), Vanishing (?)
+Source: Original, Child
+Environment: Silent, Noisy
+Transparency: Opaque, Transparent
+Initialization: Fixed, Random
+
+Levels
+------
+Lifespan: 0-30 (until stable or dead, capped at 30)
+
+Stats
+-----
+Neighborhood Radius: 1-5
+Neighborhood Size: 1-120
+Isolation: 0-10 (capped at 10)
+Overcrowding: 0-10 (capped at 10)
+Birth Minimum: 0-10 (capped at 10)
+Birth Maximum: 0-10 (capped at 10)
