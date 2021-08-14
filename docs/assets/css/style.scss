@@ -1,0 +1,38 @@
+---
+---
+
+$section-headings-color: #606c71;
+
+@import "{{ site.theme }}";
+
+
+.page-header {
+    background-image: linear-gradient(120deg, #000000, #5a5a5a);
+}
+
+.examples-table {		
+    text-align: center;	
+}
+
+.steps-table {
+    img {
+        width: 80px;
+        height: 80px;
+    }
+    td {
+        padding: 4px !important;
+    }
+}
+
+.gene-table {
+    font-size: smaller;
+    text-align: center;	
+    padding: 4px !important;
+}
+
+.gallery-table {
+    img {
+        float: left;
+        padding-right: 12px
+    }
+}
