@@ -2,17 +2,17 @@ Cellmorph Attributes
 
 Properties
 ----------
-Type: Methuselah (Monkey), Cyclic (Glider), Chaotic (Water), Expanding (Belt), Exploding (?), Vanishing (?)
+Type: Methuselah (Monkey), Glider, Oscillator (Inca Lady), Chaos (Water), Expander (Belt), Exploder (Mountains and Rivers), Vanisher (?)
 Source: Original, Child
 Environment: Silent, Noisy
 Transparency: Opaque, Transparent
-Initialization: Fixed, Random
+Seed: Fixed, Random
 
 Levels
 ------
-Lifespan: 0-30 (until dead, capped at 30)
-Stability: 0-30 (until stable, capped at 30)
-Period: 2-30 (capped at 30)
+Incubation: 0-30 (until stable or oscillating, capped at 30, for Methuselah and Glider) 
+Period: 2-30 (capped at 30, for Oscillator and Glider)
+Lifespan: 0-30 (until all cells dead, capped at 30, not used yet)
 
 Stats
 -----
