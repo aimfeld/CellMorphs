@@ -4,7 +4,7 @@
 
 layout: default
 title: CellMorphs
-image: favicon.png
+image: img/banner.png
 ---
 
 
