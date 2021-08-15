@@ -4,7 +4,7 @@
 
 layout: default
 title: CellMorphs
-image: img/cellmorphs-banner-400x400.png
+image: img/cellmorphs-banner-800x400.png
 ---
 
 
