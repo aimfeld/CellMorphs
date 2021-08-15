@@ -10,7 +10,9 @@ Initialization: Fixed, Random
 
 Levels
 ------
-Lifespan: 0-30 (until stable or dead, capped at 30)
+Lifespan: 0-30 (until dead, capped at 30)
+Stability: 0-30 (until stable, capped at 30)
+Period: 2-30 (capped at 30)
 
 Stats
 -----
