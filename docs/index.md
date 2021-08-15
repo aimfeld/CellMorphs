@@ -6,7 +6,7 @@ layout: default
 ---
 
 
-# NFT Collection
+# CellMorph NFTs
 
 CellMorphs are available as a blockchain-based [OpenSea NFT collection](https://opensea.io/collection/cellmorphs)! The collection is growing, but the total supply will be limited to 300.
 
