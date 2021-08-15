@@ -8,7 +8,7 @@ layout: default
 
 # CellMorph NFTs
 
-CellMorphs are available as a blockchain-based [OpenSea NFT collection](https://opensea.io/collection/cellmorphs)! The collection is growing, but the total supply will be limited to 300.
+CellMorphs are created using the CellMorphs open source software, see below. They are available as a blockchain-based [OpenSea NFT collection](https://opensea.io/collection/cellmorphs)! The collection is growing, but the total supply will be limited to 300.
 
 <a href="https://opensea.io/collection/cellmorphs" target="_blank"><img style="width:220px; border-radius:5px; box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.25);" src="https://storage.googleapis.com/opensea-static/Logomark/Badge%20-%20Available%20On%20-%20Light.png" alt="Available on OpenSea" /></a>
 
@@ -20,7 +20,9 @@ If you create an interesting CellMorph, [contact me](mailto:aimfeld@aimfeld.ch) 
 
 # Installation
 
-1. Download [CellMorphs](cellmorphs_v1_1.zip).
+Create your own CellMorphs:
+
+1. Download the [CellMorphs open source software](cellmorphs_v1_1.zip).
 2. Unzip the the zip-file and run CellMorphs.jar.
 
 Instead of double-clicking on CellMorphs.jar, you may have to right click -> open with -> Java (TM) SE binary. If it doesn't work, install the latest [java version](http://www.java.com/en/download).
