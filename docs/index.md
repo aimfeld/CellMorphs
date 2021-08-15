@@ -6,7 +6,7 @@ layout: default
 ---
 
 
-# CellMorph NFTs
+# CellMorphs NFTs
 
 CellMorphs are created using the CellMorphs open source software, see below. They are available as a blockchain-based [OpenSea NFT collection](https://opensea.io/collection/cellmorphs)! The collection is growing, but the total supply will be limited to 300.
 
@@ -18,7 +18,7 @@ The NFT attributes reflect the characteristics and behaviour of the CellMorphs. 
 
 If you create an interesting CellMorph, [contact me](mailto:aimfeld@aimfeld.ch) and I may add it to the NFT collection. Let's see if you discover a cooler CellMorph than my [praying monkey](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/103593194175715173505482960922039270722014244909469076189175361128878120632321/) :).
 
-# Installation
+# CellMorphs Software
 
 Create your own CellMorphs:
 
