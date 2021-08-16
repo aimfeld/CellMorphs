@@ -1,13 +1,14 @@
 ---
 ---
 
-$section-headings-color: #606c71;
+//$section-headings-color: #00467F;
 
 @import "{{ site.theme }}";
 
 
 .page-header {
-    background-image: linear-gradient(120deg, #000000, #5a5a5a);
+    // From https://uigradients.com/#Sel
+    //background-image: linear-gradient(120deg, #00467F, #A5CC82);
 }
 
 .examples-table {		
