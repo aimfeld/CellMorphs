@@ -51,9 +51,9 @@ tokenId="10359319417571517350548296092203927072201424490946907618917536113987323
 
 # CellMorphs Software
 
-Create your own CellMorphs:
+Create your own CellMorphs with the open source cross-platform CellMorphs software:
 
-1. Download the [CellMorphs open source software](cellmorphs_v1_1.zip).
+1. Download [CellMorphs](cellmorphs_v1_1.zip).
 2. Unzip the the zip-file and run CellMorphs.jar.
 
 Instead of double-clicking on CellMorphs.jar, you may have to right click -> open with -> Java (TM) SE binary. If it doesn't work, install the latest [java version](http://www.java.com/en/download).
