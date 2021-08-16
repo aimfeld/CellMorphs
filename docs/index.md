@@ -30,7 +30,7 @@ If you create an interesting CellMorph, [contact me](mailto:aimfeld@aimfeld.ch) 
 
 ## NFT Breeding 
 
-As an owner of an _original_ CellMorph, you can use it to derive and propose a child CellMorph. Just [e-mail me](mailto:aimfeld@aimfeld.ch) the .cm file, suggest a CellMorph name, and include an OpenSea link to your _original_ CellMorph. If it passes revision, you will be able to mint your child CellMorph for free (gas fees is on you though).
+As an owner of an _original_ CellMorph, you can use it to derive and propose a child CellMorph. Just [e-mail me](mailto:aimfeld@aimfeld.ch) the .cm file, suggest a CellMorph name, and include an OpenSea link to your _original_ CellMorph. If it passes revision, you will be able to mint your child CellMorph for free (gas fees apply).
 
 ![](img/nft/source-original.png)
 
