@@ -2,7 +2,14 @@ Cellmorph Attributes
 
 Properties
 ----------
-Type: Methuselah (Monkey), Glider, Oscillator (Inca Lady), Chaos (Water), Expander (Belt), Exploder (Mountains and Rivers), Vanisher (?)
+Type: 
+    Methuselah (Monkey)
+    Glider
+    Oscillator (Inca Lady)
+    Chaos (Water)
+    Expander (Belt)
+    Exploder (Mountains and Rivers)
+    Vanisher (?)
 Source: Original, Child
 Environment: Silent, Noisy
 Transparency: Opaque, Transparent
