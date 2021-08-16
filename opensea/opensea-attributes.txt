@@ -17,7 +17,7 @@ Seed: Fixed, Random
 
 Levels
 ------
-Incubation: 0-30 (until stable or oscillating, capped at 30, for Methuselah and Glider) 
+Incubation: 0-30 (until stable or oscillating, including first oscillation, capped at 30, for Methuselah and Glider) 
 Period: 2-30 (capped at 30, for Oscillator and Glider)
 Lifespan: 0-30 (until all cells dead, capped at 30, not used yet)
 
