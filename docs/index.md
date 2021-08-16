@@ -14,7 +14,7 @@ CellMorphs are created using the CellMorphs open source software, see below. The
 
 <a href="https://opensea.io/collection/cellmorphs" target="_blank"><img style="width:220px; border-radius:5px; box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.25);" src="https://storage.googleapis.com/opensea-static/Logomark/Badge%20-%20Available%20On%20-%20Light.png" alt="Available on OpenSea" /></a>
 
-Here's an example:
+Here's an example from the collection:
 
 <nft-card
 contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e"
