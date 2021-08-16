@@ -12,7 +12,9 @@ image: assets/img/cellmorphs-banner-800x400.png
 
 CellMorphs are created using the CellMorphs open source software, see below. They are available as a blockchain-based [OpenSea NFT collection](https://opensea.io/collection/cellmorphs)! The collection is growing, but the total supply will be limited to 500.
 
-<a href="https://opensea.io/collection/cellmorphs" target="_blank"><img style="width:220px; border-radius:5px; box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.25);" src="https://storage.googleapis.com/opensea-static/Logomark/Badge%20-%20Available%20On%20-%20Light.png" alt="Available on OpenSea" /></a>
+<p style="text-align: center">
+    <a href="https://opensea.io/collection/cellmorphs" target="_blank"><img style="width:220px; border-radius:5px; box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.25);" src="https://storage.googleapis.com/opensea-static/Logomark/Badge%20-%20Available%20On%20-%20Light.png" alt="Available on OpenSea" /></a>
+</p>
 
 Here's an example from the collection:
 
@@ -26,7 +28,7 @@ tokenId="10359319417571517350548296092203927072201424490946907618917536113107714
 
 The NFT attributes reflect the characteristics and behaviour of the CellMorphs. Some attributes and combinations are rarer than others:
 
-![](assets/img/nft/nft-attributes.png)
+![](assets/img/nft/nft-attributes.png){: .center-image }
 
 If you create an interesting CellMorph, [contact me](mailto:aimfeld@aimfeld.ch) and I may add it to the NFT collection. Let's see if you discover a cooler CellMorph than my [praying monkey](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/103593194175715173505482960922039270722014244909469076189175361128878120632321/) :).
 
@@ -36,7 +38,7 @@ As an owner of an _original_ CellMorph, you can use it to derive and propose a c
 
 If you derive an interesting CellMorph child, save it and [e-mail me](mailto:aimfeld@aimfeld.ch) the .cm file, suggest a CellMorph name, and include an OpenSea link to your _original_ CellMorph. Once your proposal passes revision, you will be able to mint your child CellMorph for free (gas fees apply).
 
-![](assets/img/nft/source-original.png)
+![](assets/img/nft/source-original.png){: .center-image }
 
 For example, Climate Change is a child of Green Cells:
 
@@ -68,99 +70,104 @@ CellMorphs is a program for evolving [cellular automata](http://en.wikipedia.org
 
 The cellular automata of CellMorphs are based on [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life) and the idea of evolution by aesthetic selection is derived from [Richard Dawkins' Biomorphs](https://en.wikipedia.org/wiki/The_Blind_Watchmaker). It starts with a classic game of life cellular automaton and five slightly mutated versions of it, all of which you see moving on the screen. Since you're smarter than the computer, you do the hard job of selection, while the computer generates new mutations. Here's how the program looks like:
 
-![GUI](assets/img/gui.gif)
+![GUI](assets/img/gui.gif){: .center-image }
 
 On the left side you see the parent cellmorph and five mutations (children) of it. Select one of them by clicking on it to display its genetic information on the right side in the info panel. The red border indicates your selection. Click on the selected cellmorph again to make it the parent of five new children. In the bottom right you see the control panel. Just experiment with the sliders and buttons to find out what you can do. The [cellular automata](#cellular-automata) section below will help you understand the genetic information and the different rendering modes.
 
 The results of experimenting with CellMorphs will be surprising and possibilities are virtually endless! If you evolve something interesting, please save the cellmorph to a .cm file and [e-mail](mailto:aimfeld@aimfeld.ch) it to me. Here are some examples I've evolved (also check out some animated examples in the [gallery](#gallery)):
 
-<table class="examples-table">
-    <tr>
-        <th>Cosmic Donut</th>
-        <th>Golden Hourglass</th>
-    </tr>
-    <tr>
-        <td><img src="assets/img/cosmic%20donut.jpg" height="160" /></td>
-        <td><img src="assets/img/golden%20hourglass.jpg" height="160" /></td>
-    </tr>
-    <tr>
-        <th>Mandala</th>
-        <th>Praying Monkey</th>
-    </tr>
-    <tr>
-        <td><img src="assets/img/mandala%201.jpg" height="160" /></td>
-        <td><img src="assets/img/monkey.jpg" height="160" /></td>
-    </tr>
-</table>
+<div class="center-table">
+    <table class="examples-table">
+        <tr>
+            <th>Cosmic Donut</th>
+            <th>Golden Hourglass</th>
+        </tr>
+        <tr>
+            <td><img src="assets/img/cosmic%20donut.jpg" height="160" /></td>
+            <td><img src="assets/img/golden%20hourglass.jpg" height="160" /></td>
+        </tr>
+        <tr>
+            <th>Mandala</th>
+            <th>Praying Monkey</th>
+        </tr>
+        <tr>
+            <td><img src="assets/img/mandala%201.jpg" height="160" /></td>
+            <td><img src="assets/img/monkey.jpg" height="160" /></td>
+        </tr>
+    </table>
+</div>
+
 
 Note that the ontogenetic development of a cellmorph can be very interesting. Let's see how the monkey emerges over time (check out "praying monkey.ca" in the examples folder):
 
-<table class="steps-table">
-    <tr>
-        <th>0</th>
-        <th>1</th>
-        <th>2</th>
-        <th>3</th>
-        <th>4</th>
-        <th>5</th>
-    </tr>
-    <tr>
-        <td><img src="assets/img/m0.jpg" /></td>
-        <td><img src="assets/img/m1.jpg" /></td>
-        <td><img src="assets/img/m2.jpg" /></td>
-        <td><img src="assets/img/m3.jpg" /></td>
-        <td><img src="assets/img/m4.jpg" /></td>
-        <td><img src="assets/img/m5.jpg" /></td>
-    </tr>
-    <tr>
-        <th>6</th>
-        <th>7</th>
-        <th>8</th>
-        <th>9</th>
-        <th>10</th>
-        <th>11</th>
-    </tr>
-    <tr>
-        <td><img src="assets/img/m6.jpg" /></td>
-        <td><img src="assets/img/m7.jpg" /></td>
-        <td><img src="assets/img/m8.jpg" /></td>
-        <td><img src="assets/img/m9.jpg" /></td>
-        <td><img src="assets/img/m10.jpg" /></td>
-        <td><img src="assets/img/m11.jpg" /></td>
-    </tr>
-    <tr>
-        <th>12</th>
-        <th>13</th>
-        <th>14</th>
-        <th>15</th>
-        <th>16</th>
-        <th>17</th>
-    </tr>
-    <tr>
-        <td><img src="assets/img/m12.jpg" /></td>
-        <td><img src="assets/img/m13.jpg" /></td>
-        <td><img src="assets/img/m14.jpg" /></td>
-        <td><img src="assets/img/m15.jpg" /></td>
-        <td><img src="assets/img/m16.jpg" /></td>
-        <td><img src="assets/img/m17.jpg" /></td>
-    </tr>
-    <tr>
-        <th>18</th>
-        <th>19</th>
-        <th>20</th>
-        <th>21</th>
-        <th>22</th>
-        <th>23</th>
-    </tr>
-    <tr>
-        <td><img src="assets/img/m18.jpg" /></td>
-        <td><img src="assets/img/m19.jpg" /></td>
-        <td><img src="assets/img/m20.jpg" /></td>
-        <td><img src="assets/img/m21.jpg" /></td>
-        <td><img src="assets/img/m22.jpg" /></td>
-        <td><img src="assets/img/m23.jpg" /></td>
-    </tr>
-</table>
+<div class="center-table">
+    <table class="steps-table">
+        <tr>
+            <th>0</th>
+            <th>1</th>
+            <th>2</th>
+            <th>3</th>
+            <th>4</th>
+            <th>5</th>
+        </tr>
+        <tr>
+            <td><img src="assets/img/m0.jpg" /></td>
+            <td><img src="assets/img/m1.jpg" /></td>
+            <td><img src="assets/img/m2.jpg" /></td>
+            <td><img src="assets/img/m3.jpg" /></td>
+            <td><img src="assets/img/m4.jpg" /></td>
+            <td><img src="assets/img/m5.jpg" /></td>
+        </tr>
+        <tr>
+            <th>6</th>
+            <th>7</th>
+            <th>8</th>
+            <th>9</th>
+            <th>10</th>
+            <th>11</th>
+        </tr>
+        <tr>
+            <td><img src="assets/img/m6.jpg" /></td>
+            <td><img src="assets/img/m7.jpg" /></td>
+            <td><img src="assets/img/m8.jpg" /></td>
+            <td><img src="assets/img/m9.jpg" /></td>
+            <td><img src="assets/img/m10.jpg" /></td>
+            <td><img src="assets/img/m11.jpg" /></td>
+        </tr>
+        <tr>
+            <th>12</th>
+            <th>13</th>
+            <th>14</th>
+            <th>15</th>
+            <th>16</th>
+            <th>17</th>
+        </tr>
+        <tr>
+            <td><img src="assets/img/m12.jpg" /></td>
+            <td><img src="assets/img/m13.jpg" /></td>
+            <td><img src="assets/img/m14.jpg" /></td>
+            <td><img src="assets/img/m15.jpg" /></td>
+            <td><img src="assets/img/m16.jpg" /></td>
+            <td><img src="assets/img/m17.jpg" /></td>
+        </tr>
+        <tr>
+            <th>18</th>
+            <th>19</th>
+            <th>20</th>
+            <th>21</th>
+            <th>22</th>
+            <th>23</th>
+        </tr>
+        <tr>
+            <td><img src="assets/img/m18.jpg" /></td>
+            <td><img src="assets/img/m19.jpg" /></td>
+            <td><img src="assets/img/m20.jpg" /></td>
+            <td><img src="assets/img/m21.jpg" /></td>
+            <td><img src="assets/img/m22.jpg" /></td>
+            <td><img src="assets/img/m23.jpg" /></td>
+        </tr>
+    </table>
+</div>
 
 At the beginning, neither the shape nor the colors resemble a monkey. At step 2, there's a color switch in the object as well as in the background. Steps 3 to 5 kind of resemble an alarm clock, which is indeed the monkey's ancestor, because I had evolved the alarm clock first (see clock.ca in the examples folder). Note the analogy to embryology: Human and other embryos share morphogenetic stages with their ancestors (see [prenatal development](http://en.wikipedia.org/wiki/Prenatal_development)). Then we see some more development until at step 22, the full-grown praying monkey emerges and remains stable. In game of life terminology, small patterns that last a long time before stabilizing are called "methuselahs".
 
@@ -209,68 +216,77 @@ As already stated, the cellular automata in CellMorphs are based on Conway's Gam
 
 If you like, check out my 2D and 3D game of life simulators in the gol_2d and gol_3d directories (windows only). Here are some game of life examples (all animations created with my simulators):
 
-
-<table>
-    <tr>
-        <th>Random initialization</th>
-    </tr>
-    <tr>
-        <td>
-            <img src="assets/img/gol/random.gif" /><br />
-            Note the stable and the dynamic patterns. There's also a glider
-            hitting a block on the left.
-        </td>
-    </tr>
-</table>
+<div class="center-table">
+    <table>
+        <tr>
+            <th>Random initialization</th>
+        </tr>
+        <tr>
+            <td>
+                <img src="assets/img/gol/random.gif" /><br />
+                Note the stable and the dynamic patterns. There's also a glider
+                hitting a block on the left.
+            </td>
+        </tr>
+    </table>
+</div>
 <br />
-<table>
-    <tr>
-        <th>Spaceships</th>
-    </tr>
-    <tr>
-        <td>
-            <img src="assets/img/gol/ships.gif" /><br />
-            Three moving spaceships of different size.
-        </td>
-    </tr>
-</table>
+<div class="center-table">
+    <table>
+        <tr>
+            <th>Spaceships</th>
+        </tr>
+        <tr>
+            <td>
+                <img src="assets/img/gol/ships.gif" /><br />
+                Three moving spaceships of different size.
+            </td>
+        </tr>
+    </table>
+</div>
 <br />
-<table>
-    <tr>
-        <th>Washer</th>
-    </tr>
-    <tr>
-        <td>
-            <img src="assets/img/gol/washer.gif" /><br />
-            Note the periodic patterns the washer creates.
-        </td>
-    </tr>
-</table>
+<div class="center-table">
+    <table>
+        <tr>
+            <th>Washer</th>
+        </tr>
+        <tr>
+            <td>
+                <img src="assets/img/gol/washer.gif" /><br />
+                Note the periodic patterns the washer creates.
+            </td>
+        </tr>
+    </table>
+</div>
 <br />
-<table>
-    <tr>
-        <th>Technodrome</th>
-    </tr>
-    <tr>
-        <td>
-            <img src="assets/img/gol/technodrome.gif" /><br />
-            A 2x2x2 block is rapidly growing and morphing into a cuboid.
-        </td>
-    </tr>
-</table>
+<div class="center-table">
+    <table>
+        <tr>
+            <th>Technodrome</th>
+        </tr>
+        <tr>
+            <td>
+                <img src="assets/img/gol/technodrome.gif" /><br />
+                A 2x2x2 block is rapidly growing and morphing into a cuboid.
+            </td>
+        </tr>
+    </table>
+</div>
 <br />
-<table>
-    <tr>
-        <th>Duplicator</th>
-    </tr>
-    <tr>
-        <td>
-            <img src="assets/img/gol/ai.gif" /><br />
-            Cubes with an odd number of neighbors live, the others die.
-            That's all! Any pattern can be duplicated given this simple rule.
-        </td>
-    </tr>
-</table>
+<div class="center-table">
+    <table>
+        <tr>
+            <th>Duplicator</th>
+        </tr>
+        <tr>
+            <td>
+                <img src="assets/img/gol/ai.gif" /><br />
+                Cubes with an odd number of neighbors live, the others die.
+                That's all! Any pattern can be duplicated given this simple rule.
+            </td>
+        </tr>
+    </table>
+</div>
 
 # Genome
 
