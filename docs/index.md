@@ -4,7 +4,7 @@
 
 layout: default
 title: CellMorphs
-image: img/cellmorphs-banner-800x400.png
+image: assets/img/cellmorphs-banner-800x400.png
 ---
 
 
@@ -26,7 +26,7 @@ tokenId="10359319417571517350548296092203927072201424490946907618917536113107714
 
 The NFT attributes reflect the characteristics and behaviour of the CellMorphs. Some attributes and combinations are rarer than others:
 
-![](img/nft/nft-attributes.png)
+![](assets/img/nft/nft-attributes.png)
 
 If you create an interesting CellMorph, [contact me](mailto:aimfeld@aimfeld.ch) and I may add it to the NFT collection. Let's see if you discover a cooler CellMorph than my [praying monkey](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/103593194175715173505482960922039270722014244909469076189175361128878120632321/) :).
 
@@ -36,7 +36,7 @@ As an owner of an _original_ CellMorph, you can use it to derive and propose a c
 
 If you derive an interesting CellMorph child, save it and [e-mail me](mailto:aimfeld@aimfeld.ch) the .cm file, suggest a CellMorph name, and include an OpenSea link to your _original_ CellMorph. Once your proposal passes revision, you will be able to mint your child CellMorph for free (gas fees apply).
 
-![](img/nft/source-original.png)
+![](assets/img/nft/source-original.png)
 
 For example, Climate Change is a child of Green Cells:
 
@@ -68,7 +68,7 @@ CellMorphs is a program for evolving [cellular automata](http://en.wikipedia.org
 
 The cellular automata of CellMorphs are based on [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life) and the idea of evolution by aesthetic selection is derived from [Richard Dawkins' Biomorphs](https://en.wikipedia.org/wiki/The_Blind_Watchmaker). It starts with a classic game of life cellular automaton and five slightly mutated versions of it, all of which you see moving on the screen. Since you're smarter than the computer, you do the hard job of selection, while the computer generates new mutations. Here's how the program looks like:
 
-![GUI](img/gui.gif)
+![GUI](assets/img/gui.gif)
 
 On the left side you see the parent cellmorph and five mutations (children) of it. Select one of them by clicking on it to display its genetic information on the right side in the info panel. The red border indicates your selection. Click on the selected cellmorph again to make it the parent of five new children. In the bottom right you see the control panel. Just experiment with the sliders and buttons to find out what you can do. The [cellular automata](#cellular-automata) section below will help you understand the genetic information and the different rendering modes.
 
@@ -80,16 +80,16 @@ The results of experimenting with CellMorphs will be surprising and possibilitie
         <th>Golden Hourglass</th>
     </tr>
     <tr>
-        <td><img src="img/cosmic%20donut.jpg" height="160" /></td>
-        <td><img src="img/golden%20hourglass.jpg" height="160" /></td>
+        <td><img src="assets/img/cosmic%20donut.jpg" height="160" /></td>
+        <td><img src="assets/img/golden%20hourglass.jpg" height="160" /></td>
     </tr>
     <tr>
         <th>Mandala</th>
         <th>Praying Monkey</th>
     </tr>
     <tr>
-        <td><img src="img/mandala%201.jpg" height="160" /></td>
-        <td><img src="img/monkey.jpg" height="160" /></td>
+        <td><img src="assets/img/mandala%201.jpg" height="160" /></td>
+        <td><img src="assets/img/monkey.jpg" height="160" /></td>
     </tr>
 </table>
 
@@ -105,12 +105,12 @@ Note that the ontogenetic development of a cellmorph can be very interesting. Le
         <th>5</th>
     </tr>
     <tr>
-        <td><img src="img/m0.jpg" /></td>
-        <td><img src="img/m1.jpg" /></td>
-        <td><img src="img/m2.jpg" /></td>
-        <td><img src="img/m3.jpg" /></td>
-        <td><img src="img/m4.jpg" /></td>
-        <td><img src="img/m5.jpg" /></td>
+        <td><img src="assets/img/m0.jpg" /></td>
+        <td><img src="assets/img/m1.jpg" /></td>
+        <td><img src="assets/img/m2.jpg" /></td>
+        <td><img src="assets/img/m3.jpg" /></td>
+        <td><img src="assets/img/m4.jpg" /></td>
+        <td><img src="assets/img/m5.jpg" /></td>
     </tr>
     <tr>
         <th>6</th>
@@ -121,12 +121,12 @@ Note that the ontogenetic development of a cellmorph can be very interesting. Le
         <th>11</th>
     </tr>
     <tr>
-        <td><img src="img/m6.jpg" /></td>
-        <td><img src="img/m7.jpg" /></td>
-        <td><img src="img/m8.jpg" /></td>
-        <td><img src="img/m9.jpg" /></td>
-        <td><img src="img/m10.jpg" /></td>
-        <td><img src="img/m11.jpg" /></td>
+        <td><img src="assets/img/m6.jpg" /></td>
+        <td><img src="assets/img/m7.jpg" /></td>
+        <td><img src="assets/img/m8.jpg" /></td>
+        <td><img src="assets/img/m9.jpg" /></td>
+        <td><img src="assets/img/m10.jpg" /></td>
+        <td><img src="assets/img/m11.jpg" /></td>
     </tr>
     <tr>
         <th>12</th>
@@ -137,12 +137,12 @@ Note that the ontogenetic development of a cellmorph can be very interesting. Le
         <th>17</th>
     </tr>
     <tr>
-        <td><img src="img/m12.jpg" /></td>
-        <td><img src="img/m13.jpg" /></td>
-        <td><img src="img/m14.jpg" /></td>
-        <td><img src="img/m15.jpg" /></td>
-        <td><img src="img/m16.jpg" /></td>
-        <td><img src="img/m17.jpg" /></td>
+        <td><img src="assets/img/m12.jpg" /></td>
+        <td><img src="assets/img/m13.jpg" /></td>
+        <td><img src="assets/img/m14.jpg" /></td>
+        <td><img src="assets/img/m15.jpg" /></td>
+        <td><img src="assets/img/m16.jpg" /></td>
+        <td><img src="assets/img/m17.jpg" /></td>
     </tr>
     <tr>
         <th>18</th>
@@ -153,12 +153,12 @@ Note that the ontogenetic development of a cellmorph can be very interesting. Le
         <th>23</th>
     </tr>
     <tr>
-        <td><img src="img/m18.jpg" /></td>
-        <td><img src="img/m19.jpg" /></td>
-        <td><img src="img/m20.jpg" /></td>
-        <td><img src="img/m21.jpg" /></td>
-        <td><img src="img/m22.jpg" /></td>
-        <td><img src="img/m23.jpg" /></td>
+        <td><img src="assets/img/m18.jpg" /></td>
+        <td><img src="assets/img/m19.jpg" /></td>
+        <td><img src="assets/img/m20.jpg" /></td>
+        <td><img src="assets/img/m21.jpg" /></td>
+        <td><img src="assets/img/m22.jpg" /></td>
+        <td><img src="assets/img/m23.jpg" /></td>
     </tr>
 </table>
 
@@ -178,8 +178,8 @@ Cellular automata have been employed to study pattern formation in nature, e.g. 
         <th>Simulated Shells</th>
     </tr>
     <tr>
-        <td><img src="img/shells1.jpg" /></td>
-        <td><img src="img/shells2.jpg" /></td>
+        <td><img src="assets/img/shells1.jpg" /></td>
+        <td><img src="assets/img/shells2.jpg" /></td>
     </tr>
 </table>
 _Meinhardt, H. (1995). The Algorithmic Beauty of Sea Shells. Springer Verlag. (p. 179, 180)_
@@ -216,7 +216,7 @@ If you like, check out my 2D and 3D game of life simulators in the gol_2d and go
     </tr>
     <tr>
         <td>
-            <img src="gol/random.gif" /><br />
+            <img src="assets/img/gol/random.gif" /><br />
             Note the stable and the dynamic patterns. There's also a glider
             hitting a block on the left.
         </td>
@@ -229,7 +229,7 @@ If you like, check out my 2D and 3D game of life simulators in the gol_2d and go
     </tr>
     <tr>
         <td>
-            <img src="gol/ships.gif" /><br />
+            <img src="assets/img/gol/ships.gif" /><br />
             Three moving spaceships of different size.
         </td>
     </tr>
@@ -241,7 +241,7 @@ If you like, check out my 2D and 3D game of life simulators in the gol_2d and go
     </tr>
     <tr>
         <td>
-            <img src="gol/washer.gif" /><br />
+            <img src="assets/img/gol/washer.gif" /><br />
             Note the periodic patterns the washer creates.
         </td>
     </tr>
@@ -253,7 +253,7 @@ If you like, check out my 2D and 3D game of life simulators in the gol_2d and go
     </tr>
     <tr>
         <td>
-            <img src="gol/technodrome.gif" /><br />
+            <img src="assets/img/gol/technodrome.gif" /><br />
             A 2x2x2 block is rapidly growing and morphing into a cuboid.
         </td>
     </tr>
@@ -265,7 +265,7 @@ If you like, check out my 2D and 3D game of life simulators in the gol_2d and go
     </tr>
     <tr>
         <td>
-            <img src="gol/ai.gif" /><br />
+            <img src="assets/img/gol/ai.gif" /><br />
             Cubes with an odd number of neighbors live, the others die.
             That's all! Any pattern can be duplicated given this simple rule.
         </td>
@@ -501,7 +501,7 @@ The rules and properties of the cellular automata are stored in a genome with 20
         <th>Belt</th>
     </tr>
     <tr>
-        <td><img src="gallery/belt.gif" />A
+        <td><img src="assets/img/gallery/belt.gif" />A
             belt is rolled out. Its borders are kind of glowy due to an alpha channel
             effect. When it hits the walls, the gaps get filled. This only works if
             the seed is exactly in the middle.</td>
@@ -513,7 +513,7 @@ The rules and properties of the cellular automata are stored in a genome with 20
         <th>Water</th>
     </tr>
     <tr>
-        <td height="200"><img src="gallery/water.gif" />Noise,
+        <td height="200"><img src="assets/img/gallery/water.gif" />Noise,
             transparency and the evolved set of rules simulate a moving water surface.
             It looks like there are two levels of depth: the moving water surface
             in dark blue and the static ground in light blue and turquoise.</td>
@@ -525,12 +525,12 @@ The rules and properties of the cellular automata are stored in a genome with 20
         <th colspan="2">Duplicating Gliders</th>
     </tr>
     <tr>
-        <td width="548"><img src="gallery/duplicating_gliders.gif" />Two
+        <td width="548"><img src="assets/img/gallery/duplicating_gliders.gif" />Two
             gliders are duplicating when hitting each other on the walls and in the
             middle. They build self-<wbr />similar structures in time comparable to
           the structure on the right which was created by a one-<wbr />dimensional
           cellular automaton.</td>
-        <td width="160"><img src="gallery/pyramid.jpg" /></td>
+        <td width="160"><img src="assets/img/gallery/pyramid.jpg" /></td>
     </tr>
 </table>
 <p>&nbsp;</p>
@@ -539,7 +539,7 @@ The rules and properties of the cellular automata are stored in a genome with 20
         <th>Big Glider</th>
     </tr>
     <tr>
-        <td height="168"><img src="gallery/glider_2.gif" />Here
+        <td height="168"><img src="assets/img/gallery/glider_2.gif" />Here
             we see a big two-<wbr />periodic glider taking 6 steps to fully develop and take
                 off.</td>
     </tr>
@@ -551,7 +551,7 @@ The rules and properties of the cellular automata are stored in a genome with 20
         <th>Praying Monkey</th>
     </tr>
     <tr>
-        <td height="200"><img src="gallery/praying_monkey.gif" />The
+        <td height="200"><img src="assets/img/gallery/praying_monkey.gif" />The
             praying monkey emerges after 22 steps and remains stable thereafter. For
             a detailed analysis of its ontogenetic process see the <a href="#Intro" target="_self">introduction</a>
             section. </td>
@@ -563,7 +563,7 @@ The rules and properties of the cellular automata are stored in a genome with 20
         <th>Persian Carpet</th>
     </tr>
     <tr>
-        <td height="208"><img src="gallery/persian_carpet.gif" />Following
+        <td height="208"><img src="assets/img/gallery/persian_carpet.gif" />Following
             similar dynamics like the belt, a persian carpet is rolled out. Changing
             the size of the cellmorph results in different patterns. </td>
     </tr>
@@ -574,7 +574,7 @@ The rules and properties of the cellular automata are stored in a genome with 20
         <th>Horizontal and Vertical</th>
     </tr>
     <tr>
-        <td height="200"><img src="gallery/horizontal_vertical.gif" />In
+        <td height="200"><img src="assets/img/gallery/horizontal_vertical.gif" />In
             an explosive way, a structure with vertical and horizontal lines contained
             in green borders emerges. Changing the size of the cellmorph leads to
             different shapes.</td>
@@ -586,7 +586,7 @@ The rules and properties of the cellular automata are stored in a genome with 20
         <th colspan="2">Mountains and Rivers</th>
     </tr>
     <tr>
-        <td><img src="gallery/mountains_rivers.gif" />
+        <td><img src="assets/img/gallery/mountains_rivers.gif" />
         At first, mountains arise from a green plain. Then we get the impression
             of flying over a landscape with a river. 
             Cells act according to the state of their <em>bottom</em>, left and right
@@ -595,7 +595,7 @@ The rules and properties of the cellular automata are stored in a genome with 20
         </td>
     </tr>
     <tr>
-        <td><img src="gallery/mountains_neighborhood.jpg" />
+        <td><img src="assets/img/gallery/mountains_neighborhood.jpg" />
         The illusion of movement emerges due to the particular shape of the evolved neighborhood.
         </td>
     </tr>
@@ -606,7 +606,7 @@ The rules and properties of the cellular automata are stored in a genome with 20
         <th>Inca Lady</th>
     </tr>
     <tr>
-        <td><img src="gallery/inca_lady.gif" />The
+        <td><img src="assets/img/gallery/inca_lady.gif" />The
             inca lady was sent in by Markus Hausammann. We therefore finally see conclusive
             scientific proof for the claim that Incas had green faces :).</td>
     </tr>
