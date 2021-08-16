@@ -9,7 +9,7 @@ Type:
     Chaos (Water)
     Expander (Belt)
     Exploder (Mountains and Rivers)
-    Vanisher (?)
+    Reducer (Flower Field)
 Source: Original, Child
 Environment: Silent, Noisy
 Transparency: Opaque, Transparent
