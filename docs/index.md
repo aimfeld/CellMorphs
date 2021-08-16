@@ -14,11 +14,40 @@ CellMorphs are created using the CellMorphs open source software, see below. The
 
 <a href="https://opensea.io/collection/cellmorphs" target="_blank"><img style="width:220px; border-radius:5px; box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.25);" src="https://storage.googleapis.com/opensea-static/Logomark/Badge%20-%20Available%20On%20-%20Light.png" alt="Available on OpenSea" /></a>
 
+Here's an example:
+
+<nft-card
+contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e"
+tokenId="103593194175715173505482960922039270722014244909469076189175361131077143887873">
+</nft-card>
+<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
+
 The NFT attributes reflect the characteristics and behaviour of the CellMorphs. Some attributes and combinations are rarer than others:
 
-![](img/nft-attributes.png)
+![](img/nft/nft-attributes.png)
 
 If you create an interesting CellMorph, [contact me](mailto:aimfeld@aimfeld.ch) and I may add it to the NFT collection. Let's see if you discover a cooler CellMorph than my [praying monkey](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/103593194175715173505482960922039270722014244909469076189175361128878120632321/) :).
+
+## NFT Breeding 
+
+As an owner of an _original_ CellMorph, you can use it to derive and propose a child CellMorph. Just [e-mail me](mailto:aimfeld@aimfeld.ch) the .cm file, suggest a CellMorph name, and include an OpenSea link to your _original_ CellMorph. If it passes revision, you will be able to mint your child CellMorph for free (gas fees is on you though).
+
+![](img/nft/source-original.png)
+
+For example, Climate Change is a child of Green Cells:
+
+<nft-card
+contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e"
+tokenId="103593194175715173505482960922039270722014244909469076189175361145370795048961">
+</nft-card>
+<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
+
+<nft-card
+contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e"
+tokenId="103593194175715173505482960922039270722014244909469076189175361139873236910081">
+</nft-card>
+<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
+
 
 # CellMorphs Software
 
