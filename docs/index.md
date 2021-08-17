@@ -556,12 +556,12 @@ The rules and properties of the cellular automata are stored in a genome with 20
         <th colspan="2">Duplicating Gliders</th>
     </tr>
     <tr>
-        <td width="548"><img src="assets/img/gallery/duplicating_gliders.gif" />Two
+        <td><img src="assets/img/gallery/duplicating_gliders.gif" />Two
             gliders are duplicating when hitting each other on the walls and in the
             middle. They build self-<wbr />similar structures in time comparable to
           the structure on the right which was created by a one-<wbr />dimensional
           cellular automaton.</td>
-        <td width="160"><img src="assets/img/gallery/pyramid.jpg" /></td>
+        <td width="30%"><img src="assets/img/gallery/pyramid.jpg" /></td>
     </tr>
 </table>
 <p>&nbsp;</p>
