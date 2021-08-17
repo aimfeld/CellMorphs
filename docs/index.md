@@ -79,15 +79,19 @@ Create your own CellMorphs with the open source cross-platform CellMorphs softwa
 3. Unzip the the zip-file and run CellMorphs.jar.
 
 
-# Introduction
+# What are CellMorphs
 
-CellMorphs is a program for evolving [cellular automata](http://en.wikipedia.org/wiki/Cellular_automata). Cellular automata are complex dynamical systems that exhibit overall behavior that cannot be traced back to the underlying rules, that is, [emergent](http://en.wikipedia.org/wiki/Emergence) or self-organized behavior. Complex systems typically consist of many similar, interacting, simple parts. 'Simple' means that the behavior of parts is easily understood, while the overall behavior of the system as a whole has no simple explanation.
+CellMorphs are evolved [cellular automata](http://en.wikipedia.org/wiki/Cellular_automata). Cellular automata are complex dynamical systems that exhibit overall behavior that cannot be traced back to the underlying rules. In other words, they show [emergent](http://en.wikipedia.org/wiki/Emergence) or self-organized behavior. Complex systems typically consist of many similar, interacting, simple parts. 'Simple' means that the behavior of parts is easily understood, while the overall behavior of the system as a whole has no simple explanation.
 
-The cellular automata of CellMorphs are based on [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life) and the idea of evolution by aesthetic selection is derived from [Richard Dawkins' Biomorphs](https://en.wikipedia.org/wiki/The_Blind_Watchmaker). It starts with a classic game of life cellular automaton and five slightly mutated versions of it, all of which you see moving on the screen. Since you're smarter than the computer, you do the hard job of selection, while the computer generates new mutations. Here's how the program looks like:
+The cellular automata of CellMorphs are based on [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life) and the idea of evolution by aesthetic selection is derived from [Richard Dawkins' Biomorphs](https://en.wikipedia.org/wiki/The_Blind_Watchmaker). 
+
+# Create CellMorphs
+
+Once you open the CellMorphs Software, it shows a parent CellMorph based on classic Game of Life rules on the top left. Also, you will see 5 children, which are mutated versions of the parent. Since you're smarter than the computer, you do the hard job of selection, while the computer generates new mutations. Here's how the user interface looks like:
 
 ![GUI](assets/img/gui.gif){: .center-image }
 
-On the left side you see the parent cellmorph and five mutations (children) of it. Select one of them by clicking on it to display its genetic information on the right side in the info panel. The red border indicates your selection. Click on the selected cellmorph again to make it the parent of five new children. In the bottom right you see the control panel. Just experiment with the sliders and buttons to find out what you can do. The [cellular automata](#cellular-automata) section below will help you understand the genetic information and the different rendering modes.
+Select one of the six CellMorphs by clicking on it to display its genetic information on the right side in the info panel. The red border indicates your selection. Click on the selected cellmorph again to make it the parent of five new children. In the bottom right you see the control panel. Just experiment with the sliders and buttons to find out what you can do. The [cellular automata](#cellular-automata) section below will help you understand the genetic information and the different rendering modes.
 
 The results of experimenting with CellMorphs will be surprising and possibilities are virtually endless! If you evolve something interesting, please save the cellmorph to a .cm file and [e-mail](mailto:aimfeld@aimfeld.ch) it to me. Here are some examples I've evolved (also check out some animated examples in the [gallery](#gallery)):
 
