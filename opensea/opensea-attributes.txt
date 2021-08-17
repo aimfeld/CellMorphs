@@ -5,7 +5,7 @@ Properties
 Type: 
     Methuselah (Monkey)
     Glider
-    Oscillator (Inca Lady)
+    Oscillator (Inca Lady, Cell Division)
     Chaos (Water)
     Expander (Belt)
     Exploder (Mountains and Rivers)
