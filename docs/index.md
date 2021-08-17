@@ -1,6 +1,9 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+# Test website locally:
+# bundle exec jekyll serve
 
 layout: default
 title: CellMorphs
@@ -16,11 +19,23 @@ CellMorphs are created using the CellMorphs open source software, see below. The
     <a href="https://opensea.io/collection/cellmorphs" target="_blank"><img style="width:220px; border-radius:5px; box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.25);" src="https://storage.googleapis.com/opensea-static/Logomark/Badge%20-%20Available%20On%20-%20Light.png" alt="Available on OpenSea" /></a>
 </p>
 
-Here's an example from the collection:
+Here are some examples from the collection:
+
+<nft-card
+contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e"
+tokenId="103593194175715173505482960922039270722014244909469076189175361128878120632321">
+</nft-card>
+<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
 
 <nft-card
 contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e"
 tokenId="103593194175715173505482960922039270722014244909469076189175361131077143887873">
+</nft-card>
+<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
+
+<nft-card
+contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e"
+tokenId="103593194175715173505482960922039270722014244909469076189175361132176655515649">
 </nft-card>
 <script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
 
