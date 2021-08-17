@@ -13,8 +13,7 @@ $section-headings-color: #015599;
 }
 
 // Hide buttons on mobile
-#download-button,
-#nft-button {
+header > .btn {
     @media screen and (max-width: 600px) {
         visibility: hidden;
         display: none;
