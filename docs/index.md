@@ -624,10 +624,9 @@ The rules and properties of the cellular automata are stored in a genome with 20
             neighbors. The shape of the river is influenced by background noise, causing
             it to flow left, right or straight.
         </td>
-    </tr>
-    <tr>
-        <td><img src="assets/img/gallery/mountains_neighborhood.jpg" />
-        The illusion of movement emerges due to the particular shape of the evolved neighborhood.
+        <td width="30%">
+            <img src="assets/img/gallery/mountains_neighborhood.jpg" />
+            The illusion of movement emerges due to the particular shape of the evolved neighborhood.
         </td>
     </tr>
 </table>
