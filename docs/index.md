@@ -49,9 +49,9 @@ If you create an interesting CellMorph, [contact me](mailto:aimfeld@aimfeld.ch) 
 
 ## CellMorphs Breeding 
 
-As an owner of an _original_ CellMorph, you can use it to derive and propose a child CellMorph. The .cm file of your CellMorph is provided as unlockable content. Download it and open it with the [CellMorphs software](#cellmorphs-software). 
+As an owner of a childless _original_ CellMorph, you can use it to derive and propose a child CellMorph. The .cm file of your CellMorph is provided as unlockable content. Download it and open it with the [CellMorphs software](#cellmorphs-software). 
 
-If you derive an interesting CellMorph child, save it and [e-mail me](mailto:aimfeld@aimfeld.ch) the .cm file, suggest a CellMorph name, and include an OpenSea link to your _original_ CellMorph. Once your proposal passes revision, you will be able to mint your child CellMorph for free (gas fees apply).
+If you breed an interesting CellMorph child, save it and [e-mail me](mailto:aimfeld@aimfeld.ch) the .cm file, suggest a CellMorph name, and include an OpenSea link to your _original_ CellMorph. Once your proposal passes revision, you will be able to mint your child CellMorph for free (gas fees apply). Look for the _original_ property:
 
 ![](assets/img/nft/source-original.png){: .center-image }
 
