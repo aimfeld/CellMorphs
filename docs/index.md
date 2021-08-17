@@ -91,9 +91,11 @@ Once you open the CellMorphs Software, it shows a parent CellMorph based on clas
 
 ![GUI](assets/img/gui.gif){: .center-image }
 
-Select one of the six CellMorphs by clicking on it to display its genetic information on the right side in the info panel. The red border indicates your selection. Click on the selected cellmorph again to make it the parent of five new children. In the bottom right you see the control panel. Just experiment with the sliders and buttons to find out what you can do. The [cellular automata](#cellular-automata) section below will help you understand the genetic information and the different rendering modes.
+Select one of the six CellMorphs by clicking on it to display its genetic information on the right side in the info panel. The red border indicates your selection. Click on the selected CellMorph again to make it the parent of five new children. 
 
-The results of experimenting with CellMorphs will be surprising and possibilities are virtually endless! If you evolve something interesting, please save the cellmorph to a .cm file and [e-mail](mailto:aimfeld@aimfeld.ch) it to me. Here are some examples I've evolved (also check out some animated examples in the [gallery](#gallery)):
+In the bottom right you see the control panel. Just experiment with the sliders and buttons to find out what you can do. You can e.g. replay the current CellMorphs with the Reinitialize button, change the speed, or open a CellMorph in a bigger separate window. Also, you can go back to earlier generations. The [cellular automata](#cellular-automata) section below will help you understand the genetic information and the different rendering modes.
+
+The results of experimenting with CellMorphs will be surprising and possibilities are virtually endless! If you evolve something interesting, please save the CellMorph to a .cm file and [e-mail](mailto:aimfeld@aimfeld.ch) it to me. Here are some examples I've evolved (also check out some animated examples in the [gallery](#gallery) below):
 
 <div class="center-table">
     <table class="examples-table">
@@ -117,7 +119,7 @@ The results of experimenting with CellMorphs will be surprising and possibilitie
 </div>
 
 
-Note that the ontogenetic development of a cellmorph can be very interesting. Let's see how the monkey emerges over time (check out "praying monkey.ca" in the examples folder):
+Note that the ontogenetic development of a CellMorph can be very interesting. Let's see how the monkey emerges over time (check out "praying monkey.ca" in the examples folder):
 
 <div class="center-table">
     <table class="steps-table">
@@ -233,6 +235,8 @@ As already stated, the cellular automata in CellMorphs are based on Conway's Gam
 * Reproduction: If a dead cell has three living neighbors, then it comes to life.
 * Stasis: Otherwise, a cell stays as it is.
 
+# Game of Life
+
 If you like, check out my 2D and 3D game of life simulators in the gol_2d and gol_3d directories (windows only). Here are some game of life examples (all animations created with my simulators):
 
 <div class="center-table">
@@ -277,7 +281,9 @@ If you like, check out my 2D and 3D game of life simulators in the gol_2d and go
         </tr>
     </table>
 </div>
-<br />
+
+# Game of Life 3D
+
 <div class="center-table">
     <table>
         <tr>
@@ -309,7 +315,7 @@ If you like, check out my 2D and 3D game of life simulators in the gol_2d and go
 
 # Genome
 
-The rules and properties of the cellular automata are stored in a genome with 20 genes. This amounts to roughly `4.6*10^124` possible genetic combinations to define cellular automata which can be displayed in roughly `2*10^10` different ways. That's just enough to keep you busy for a while I guess. Note that the vast majority of these cellular automata will be very boring. This is where the evolutionary approach of CellMorphs kicks in and helps you find your way towards the interesting combinations. Again, this bears analogy to the way nature works: Evolution by cumulative selection is an effective way to search the endless design space of genetically possible combinations (most of which are nonviable, or boring, so to speak). Here's the gene table:
+The CellMorphs rules and properties of the cellular automata are stored in a genome with 20 genes. This amounts to roughly `4.6*10^124` possible genetic combinations to define cellular automata which can be displayed in roughly `2*10^10` different ways. That's just enough to keep you busy for a while I guess. Note that the vast majority of these cellular automata will be very boring. This is where the evolutionary approach of CellMorphs kicks in and helps you find your way towards the interesting combinations. Again, this bears analogy to the way nature works: Evolution by cumulative selection is an effective way to search the endless design space of genetically possible combinations (most of which are nonviable, or boring, so to speak). Here's the gene table:
 
 <table class="gene-table">
     <tr>
@@ -600,7 +606,7 @@ The rules and properties of the cellular automata are stored in a genome with 20
     <tr>
         <td height="208"><img src="assets/img/gallery/persian_carpet.gif" />Following
             similar dynamics like the belt, a persian carpet is rolled out. Changing
-            the size of the cellmorph results in different patterns. </td>
+            the size of the CellMorph results in different patterns. </td>
     </tr>
 </table>
 <p>&nbsp;</p>
@@ -611,7 +617,7 @@ The rules and properties of the cellular automata are stored in a genome with 20
     <tr>
         <td height="200"><img src="assets/img/gallery/horizontal_vertical.gif" />In
             an explosive way, a structure with vertical and horizontal lines contained
-            in green borders emerges. Changing the size of the cellmorph leads to
+            in green borders emerges. Changing the size of the CellMorph leads to
             different shapes.</td>
     </tr>
 </table>
