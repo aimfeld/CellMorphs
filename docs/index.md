@@ -69,6 +69,11 @@ tokenId="10359319417571517350548296092203927072201424490946907618917536113987323
 </nft-card>
 <script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
 
+# What are CellMorphs
+
+CellMorphs are evolved [cellular automata](http://en.wikipedia.org/wiki/Cellular_automata). Cellular automata are complex dynamical systems that exhibit overall behavior that cannot be traced back to the underlying rules. In other words, they show [emergent](http://en.wikipedia.org/wiki/Emergence) or self-organized behavior. Complex systems typically consist of many similar, interacting, simple parts. 'Simple' means that the behavior of parts is easily understood, while the overall behavior of the system as a whole has no simple explanation.
+
+The cellular automata of CellMorphs are based on [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life) and the idea of evolution by aesthetic selection is derived from [Richard Dawkins' Biomorphs](https://en.wikipedia.org/wiki/The_Blind_Watchmaker). 
 
 # CellMorphs Software
 
@@ -77,15 +82,6 @@ Create your own CellMorphs with the open source cross-platform CellMorphs softwa
 1. Download [CellMorphs](cellmorphs_v1_1.zip).
 2. On Mac OS, you may need to install the [java runtime environment](http://www.java.com/en/download) (Windows and Linux have it preinstalled).
 3. Unzip the the zip-file and run CellMorphs.jar.
-
-
-# What are CellMorphs
-
-CellMorphs are evolved [cellular automata](http://en.wikipedia.org/wiki/Cellular_automata). Cellular automata are complex dynamical systems that exhibit overall behavior that cannot be traced back to the underlying rules. In other words, they show [emergent](http://en.wikipedia.org/wiki/Emergence) or self-organized behavior. Complex systems typically consist of many similar, interacting, simple parts. 'Simple' means that the behavior of parts is easily understood, while the overall behavior of the system as a whole has no simple explanation.
-
-The cellular automata of CellMorphs are based on [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life) and the idea of evolution by aesthetic selection is derived from [Richard Dawkins' Biomorphs](https://en.wikipedia.org/wiki/The_Blind_Watchmaker). 
-
-# Create CellMorphs
 
 Once you open the CellMorphs Software, it shows a parent CellMorph based on classic Game of Life rules on the top left. Also, you will see 5 children, which are mutated versions of the parent. Since you're smarter than the computer, you do the hard job of selection, while the computer generates new mutations. Here's how the user interface looks like:
 
