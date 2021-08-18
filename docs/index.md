@@ -7,7 +7,7 @@
 
 layout: default
 title: CellMorphs
-image: assets/img/cellmorphs-tagline-800x400.png
+image: assets/img/cellmorphs-banner-800x400.png
 ---
 
 
