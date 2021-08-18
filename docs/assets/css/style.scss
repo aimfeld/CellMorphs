@@ -9,7 +9,21 @@ $section-headings-color: #015599;
 // Header ---------------------------------------------------------------------
 .page-header {
     // From https://uigradients.com/#Sel
-    background-image: linear-gradient(120deg, #003057, #9c9c9c);
+    background-image:none !important;
+    background-color: black;
+}
+
+#header-cellmorphs {
+    // https://www.freecodecamp.org/news/how-to-center-an-image-in-css/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height: 180px;
+    max-width: 1000px;
+    margin: auto;
+    img {
+        width: 20%;
+    }
 }
 
 // Hide buttons on mobile

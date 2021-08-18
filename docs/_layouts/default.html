@@ -18,7 +18,14 @@
 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <img src="assets/img/monkey.gif" />
+      <div id="header-cellmorphs">
+        <img src="assets/img/header/big_glider.gif"/>
+        <img src="assets/img/header/pinecone.gif" />
+        <img src="assets/img/header/monkey.gif" />
+        <img src="assets/img/header//angry_robot.gif" />
+        <img src="assets/img/header/cell_division.gif" />
+      </div>
+
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a id="github-button" href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
@@ -27,6 +34,7 @@
         <a id="download-button" href="#cellmorphs-software" class="btn">Download CellMorphs</a>
       {% endif %}
       <a id="nft-button" href="https://opensea.io/collection/cellmorphs" class="btn">NFT Collection</a>
+
     </header>
 
     <main id="content" class="main-content" role="main">
