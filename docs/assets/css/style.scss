@@ -28,15 +28,10 @@ $section-headings-color: #015599;
 }
 
 #header-cellmorphs {
-    // https://www.freecodecamp.org/news/how-to-center-an-image-in-css/
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    max-height: 200px;
-    max-width: 1000px;
-    margin: auto;
     img {
-        width: 20%;
+        width: 100%;
+        max-width: 1000px;
+        margin: auto;
     }
 }
 
