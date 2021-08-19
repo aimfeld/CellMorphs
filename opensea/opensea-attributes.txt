@@ -7,7 +7,7 @@ Type:
     Glider
     Oscillator (Inca Lady, Cell Division)
     Chaos (Water)
-    Expander (Belt, Amoeba)
+    Expander (Belt, Amoeba, Luminous Drift)
     Exploder (Mountains and Rivers)
     Reducer (Flower Field)
 Source: Original, Child
