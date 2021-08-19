@@ -650,5 +650,7 @@ The CellMorphs rules and properties of the cellular automata are stored in a gen
 
 # Contact
 
-* Author: (c) Adrian Imfeld
+* Author: Adrian Imfeld
 * E-mail: [aimfeld@aimfeld.ch](mailto:aimfeld@aimfeld.ch)
+* Twitter: [@CellMorphs](https://twitter.com/CellMorphs)
+* Github: [CellMorphs](https://github.com/aimfeld/CellMorphs)
