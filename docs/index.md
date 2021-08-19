@@ -18,6 +18,9 @@ CellMorphs are created using the CellMorphs open source software, see below. The
 <p style="text-align: center">
     <a href="https://opensea.io/collection/cellmorphs" target="_blank"><img style="width:220px; border-radius:5px; box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.25);" src="https://storage.googleapis.com/opensea-static/Logomark/Badge%20-%20Available%20On%20-%20Light.png" alt="Available on OpenSea" /></a>
 </p>
+<p style="text-align: center">
+    <a href="https://twitter.com/CellMorphs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @CellMorphs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
 Here are some examples from the collection:
 
