@@ -8,8 +8,11 @@ Type:
     Oscillator (Inca Lady, Cell Division)
     Chaos (Water)
     Expander (Belt, Amoeba, Luminous Drift)
-    Exploder (Mountains and Rivers)
+    Exploder (Cosmic Donut)
     Reducer (Flower Field)
+    Flicker (Shrinking Blobs, 
+             Mountains and Rivers,
+             Green Cells)
 Source: Original, Child
 Environment: Silent, Noisy
 Transparency: Opaque, Transparent
