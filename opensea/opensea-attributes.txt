@@ -6,7 +6,7 @@ Type:
     Methuselah (Monkey)
     Glider
     Oscillator (Inca Lady, Cell Division)
-    Chaos (Water)
+    Chaos (Water, Fire)
     Expander (Belt, Amoeba, Luminous Drift)
     Exploder (Cosmic Donut)
     Reducer (Flower Field)
