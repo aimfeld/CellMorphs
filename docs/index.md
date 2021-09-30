@@ -13,13 +13,19 @@ image: assets/img/cellmorphs-banner-800x400.png
 
 # CellMorphs NFTs
 
-CellMorphs are digital works of art created with the CellMorphs open source software, see below. They are available as a blockchain-based [OpenSea NFT collection](https://opensea.io/collection/cellmorphs). The collection is growing, but the total supply will be limited to 300.
+CellMorphs are digital works of art created with the CellMorphs open source software, see below. They are available as a blockchain-based NFT collection on [OpenSea](https://opensea.io/collection/cellmorphs). The collection is growing, but the total supply will be limited to 300.
 
 <p style="text-align: center">
     <a href="https://opensea.io/collection/cellmorphs" target="_blank"><img style="width:220px; border-radius:5px; box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.25);" src="https://storage.googleapis.com/opensea-static/Logomark/Badge%20-%20Available%20On%20-%20Light.png" alt="Available on OpenSea" /></a>
+
 </p>
 <p style="text-align: center">
     <a href="https://twitter.com/CellMorphs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @CellMorphs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+There's also a CellMorphs 3D Metaverse Gallery, check it out on [Cyber](https://oncyber.io/cellmorphs2).
+<p style="text-align: center">
+    <a href="https://oncyber.io/cellmorphs2" target="_blank"><img style="border-radius:5px; box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.25);" src="assets/img/cellmorphs-cyber-gallery.gif" alt="3D Cyber Gallery" /></a>
 </p>
 
 Here are some examples from the collection:
