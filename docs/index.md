@@ -10,73 +10,10 @@ title: CellMorphs
 image: assets/img/cellmorphs-banner-800x400.png
 ---
 
-
-# CellMorphs NFTs
-
-CellMorphs are digital works of art created with the CellMorphs open source software, see below. They are available as a blockchain-based NFT collection on [OpenSea](https://opensea.io/collection/cellmorphs). The collection is growing, but the total supply will be limited to 300.
-
-<p style="text-align: center">
-    <a href="https://opensea.io/collection/cellmorphs" target="_blank"><img style="width:220px; border-radius:5px; box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.25);" src="https://storage.googleapis.com/opensea-static/Logomark/Badge%20-%20Available%20On%20-%20Light.png" alt="Available on OpenSea" /></a>
-
-</p>
-<p style="text-align: center">
-    <a href="https://twitter.com/CellMorphs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @CellMorphs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-
-There's also a CellMorphs 3D Metaverse Gallery, check it out on [Cyber](https://oncyber.io/cellmorphs2).
+Check out the CellMorphs 3D Metaverse Gallery on [Cyber](https://oncyber.io/cellmorphs2).
 <p style="text-align: center">
     <a href="https://oncyber.io/cellmorphs2" target="_blank"><img style="border-radius:5px; box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.25);" src="assets/img/cellmorphs-cyber-gallery.gif" alt="3D Cyber Gallery" /></a>
 </p>
-
-Here are some examples from the collection:
-
-<nft-card
-contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e"
-tokenId="103593194175715173505482960922039270722014244909469076189175361128878120632321">
-</nft-card>
-<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
-
-<nft-card
-contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e"
-tokenId="103593194175715173505482960922039270722014244909469076189175361131077143887873">
-</nft-card>
-<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
-
-<nft-card
-contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e"
-tokenId="103593194175715173505482960922039270722014244909469076189175361132176655515649">
-</nft-card>
-<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
-
-## CellMorphs Attributes
-
-The NFT attributes reflect the characteristics and behaviour of the CellMorphs. Some attributes and combinations are rarer than others:
-
-![](assets/img/nft/nft-attributes.png){: .center-image }
-
-If you create an interesting CellMorph, [contact me](mailto:aimfeld@aimfeld.ch) and I may add it to the NFT collection. Let's see if you discover a cooler CellMorph than my [praying monkey](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/103593194175715173505482960922039270722014244909469076189175361128878120632321/) :).
-
-## CellMorphs Breeding 
-
-As an owner of a childless _original_ CellMorph, you can use it to derive and propose a child CellMorph. The .cm file of your CellMorph is provided as unlockable content. Download it and open it with the [CellMorphs software](#cellmorphs-software). 
-
-If you breed an interesting CellMorph child, save it and [e-mail me](mailto:aimfeld@aimfeld.ch) the .cm file, suggest a CellMorph name, and include an OpenSea link to your _original_ CellMorph. Once your proposal passes revision, you will be able to mint your child CellMorph for free (gas fees apply). Look for the _original_ property:
-
-![](assets/img/nft/source-original.png){: .center-image }
-
-For example, Climate Change is a child of Green Cells:
-
-<nft-card
-contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e"
-tokenId="103593194175715173505482960922039270722014244909469076189175361145370795048961">
-</nft-card>
-<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
-
-<nft-card
-contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e"
-tokenId="103593194175715173505482960922039270722014244909469076189175361139873236910081">
-</nft-card>
-<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
 
 # What are CellMorphs
 
