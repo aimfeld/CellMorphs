@@ -5,7 +5,6 @@ CellMorphs is a program for evolving cellular automata by aesthetic selection. C
 ## Project Website
 
 - https://aimfeld.github.io/CellMorphs/
-- OpenSea CellMorphs [NFT collection](https://opensea.io/collection/cellmorphs)
 - Check out the [gallery](https://aimfeld.github.io/CellMorphs/#gallery) for animated examples.
 
 ![Belt](https://aimfeld.github.io/CellMorphs/assets/img/gallery/belt.gif)
